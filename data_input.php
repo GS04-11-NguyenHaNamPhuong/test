@@ -11,6 +11,7 @@
 <p>MAIL:<input type="text" name="mail" size="20"></p>
 <p>年齢:<input type="text" name="age" size="20"></p>
 <p>コメント:<textarea name="comment"></textarea></p>
+<p>コメント:<textarea name="comment"></textarea></p>
 <p><input type="submit" value="送信"></p>
 </form>
 
